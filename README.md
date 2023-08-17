@@ -28,11 +28,19 @@ Please find my project [here](https://github.com/Rashmi-PP/Data-ETL-pipeline-Pyt
 
   :mag: The skill I acquired doing this project is to learn the implementation of an end-to-end ETL pipeline. This is a skillset needed in every business.
   
+- **Classification using Machine Learning in Python**
+Please find my project [here](https://github.com/Rashmi-PP/MachineLearning_Classification)
+
+  :checkered_flag: The goal of this project is to find out a good ML classification model to classify whether a person would subscribe to a term deposit based on various input features like personal demographics, loan amount, to name a few. The models implemented include logistic regression, support vector machine and neural network. These models were evaluated using metrics like recall, F1 score and accuracy. 
+
+  :mag: The skill I acquired doing this project includes the following:
+  1. Mitigate class imbalance 
+  
+  
+  
 
 
 
-
-:orange_circle:
 
 
 
