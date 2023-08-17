@@ -39,9 +39,13 @@ Please find my project [here](https://github.com/Rashmi-PP/MachineLearning_Class
   3. Model validation using metrics like recall, F1 score
   4. Overcoming underfitting by not eliminating too many features that originally caused overfitting.
   
-  
+- **Web development using Flask framework**
+Please find my project [here](https://github.com/Rashmi-PP/Web-development-using-Flask)
+You can see the website [here]( https://exam-results.onrender.com/)
 
+:checkered_flag: The goal of this project is to develop a simple web application using Flask and HTML to calculate an exam result status based on scores that a user inputs. On submission of the scores, a web page containing the result status and percentage score is rendered.
 
+:mag: The skill I acquired implementing this project is to use Flask framework to build a web application that renders results dynamically.
 
 
 
