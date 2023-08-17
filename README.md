@@ -8,6 +8,8 @@
 
 :large_blue_circle: Now, let me take you through some of the projects that I did while exploring the domain of data science.	:flashlight:
 
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
 - **Data visualization using Tableau**: 
 Analyzing US Sustainable Development Goals(SDG) from 2011-2017. Please find my project [here](https://public.tableau.com/app/profile/rashmi8121/viz/USSDGindicatorsDashboard/Final_Dashboard1)
 
