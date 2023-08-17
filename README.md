@@ -6,16 +6,31 @@
 
 :large_blue_circle: My LinkedIn profile can be found at https://www.linkedin.com/in/rashmipp/ Here, you can find some of the certifications that I completed, that expose my interest in the undertaken pursuit.
 
-:large_blue_circle: Now, let me take you through some of the projects that I did while exploring the domain of data science.	:flashlight::chart_with_upwards_trend:
+:large_blue_circle: Now, let me take you through some of the projects that I did while exploring the domain of data science.	:flashlight:
 
-:small_orange_diamond: **Data visualization using Tableau**: 
+:orange_circle: **Data visualization using Tableau**: 
 Analyzing US Sustainable Development Goals(SDG) from 2011-2017. Please find my project [here](https://public.tableau.com/app/profile/rashmi8121/viz/USSDGindicatorsDashboard/Final_Dashboard1)
-The goal of this project is to visualize how SDG indicators such as school expenditure per state GDP, high school dropout rate and unemployment rate vary across the US for the given period. The analysis of SDG is also done for each state and by gender/race. The skill I acquired doing the project was to use Tableau to make simple, yet meaningful dashboard to analyze a few important aspects of the US economy. 
+:checkered_flag: The goal of this project is to visualize how SDG indicators such as school expenditure per state GDP, high school dropout rate and unemployment rate vary across the US for the given period. The analysis of SDG is also done for each state and by gender/race. 
+:mag: The skill I acquired doing the project was to use Tableau to make simple, yet meaningful dashboard to analyze a few important aspects of the US economy. :chart_with_upwards_trend:
 
-:small_orange_diamond:
+:orange_circle: **ETL using Python, Docker, SQL**
+Please find my project [here](https://github.com/Rashmi-PP/Data-ETL-pipeline-Python-AWS)
+:checkered_flag: The goal of 
+
  
 
-:small_orange_diamond:
+:orange_circle:
+
+
+:orange_circle:
+
+
+
+:orange_circle:
+
+
+
+:orange_circle:
 
 
 
