@@ -47,13 +47,20 @@ Please find my project [here](https://github.com/Rashmi-PP/MachineLearning_Class
 ____________________________________________________________________________________________________
 
 - **Web development using Flask framework**
-Please find my project [here](https://github.com/Rashmi-PP/Web-development-using-Flask)
-You can see the website [here]( https://exam-results.onrender.com/)
+Please find my project [here](https://github.com/Rashmi-PP/Web-development-using-Flask) .
+You can view the website [here]( https://exam-results.onrender.com/)
 
 :checkered_flag: The goal of this project is to develop a simple web application using Flask and HTML to calculate an exam result status based on scores that a user inputs. On submission of the scores, a web page containing the result status and percentage score is rendered.
 
 :mag: The skill I acquired implementing this project is to use Flask framework to build a web application that renders results dynamically.
 
 ____________________________________________________________________________________________________
+
+To view some other projects that I implemented, do check out my main [github repository page](https://github.com/Rashmi-PP?tab=repositories) .
+
+:books:
+
+:smiley: **Thank you for choosing to visit this page!** :smiley:
+Feel free to message me on LinkedIn with feedback/queries.
 
 
