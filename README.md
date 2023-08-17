@@ -13,12 +13,21 @@ Analyzing US Sustainable Development Goals(SDG) from 2011-2017. Please find my p
 
   :checkered_flag: The goal of this project is to visualize how SDG indicators such as school expenditure per state GDP, high school dropout rate and unemployment rate vary across the US for the given period. The analysis of SDG is also done for each state and by gender/race. 
 
-  :mag: The skill I acquired doing the project was to use Tableau to make simple, yet meaningful dashboard to analyze a few important aspects of the US economy. :chart_with_upwards_trend:
+  :mag: The skill I acquired doing the project is to use Tableau to make simple, yet meaningful dashboard to analyze a few important aspects of the US economy. :chart_with_upwards_trend:
 
 - **ETL using Python, Docker, SQL**
 Please find my project [here](https://github.com/Rashmi-PP/Data-ETL-pipeline-Python-AWS)
 
-:checkered_flag: The goal of this
+  :checkered_flag: The goal of this project is to do the following:
+    1. Build an ETL pipeline where data is ingested to AWS S3
+    2. Pre-process the data using Python
+    3. Feed the resulting data to Amazon Relational Database Service(RDS)
+    4. Connect DBeaver to RDS so I could execute queries on the database to make useful analysis
+    5. Create AWS EC2 instance to host the application
+    6. Run a cron job to get updated data to S3 repeatedly
+
+  :mag: The skill I acquired doing this project is to learn the implementation of an end-to-end ETL pipeline. This is a skillset needed in every business.
+  
 
 
 
