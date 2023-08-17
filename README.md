@@ -8,14 +8,14 @@
 
 :large_blue_circle: Now, let me take you through some of the projects that I did while exploring the domain of data science.	:flashlight:
 
-	:radio_button: **Data visualization using Tableau**: 
+:radio_button: **Data visualization using Tableau**: 
 Analyzing US Sustainable Development Goals(SDG) from 2011-2017. Please find my project [here](https://public.tableau.com/app/profile/rashmi8121/viz/USSDGindicatorsDashboard/Final_Dashboard1)
 
 :checkered_flag: The goal of this project is to visualize how SDG indicators such as school expenditure per state GDP, high school dropout rate and unemployment rate vary across the US for the given period. The analysis of SDG is also done for each state and by gender/race. 
 
 :mag: The skill I acquired doing the project was to use Tableau to make simple, yet meaningful dashboard to analyze a few important aspects of the US economy. :chart_with_upwards_trend:
 
-	:radio_button: **ETL using Python, Docker, SQL**
+:radio_button: **ETL using Python, Docker, SQL**
 Please find my project [here](https://github.com/Rashmi-PP/Data-ETL-pipeline-Python-AWS)
 
 :checkered_flag: The goal of 
