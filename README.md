@@ -10,6 +10,7 @@
 
 :small_orange_diamond: **Data visualization using Tableau**: 
 Analyzing US Sustainable Development Goals(SDG) from 2011-2017. Please find my project [here](https://public.tableau.com/app/profile/rashmi8121/viz/USSDGindicatorsDashboard/Final_Dashboard1)
+The goal of this project is to visualize how SDG indicators such as school expenditure per state GDP, high school dropout rate and unemployment rate vary across the US for the given period. The analysis of SDG is also done for each state and by gender/race. The skill I acquired doing the project was to use Tableau to make simple, yet meaningful dashboard to analyze a few important aspects of the US economy. 
 
 :small_orange_diamond:
  
