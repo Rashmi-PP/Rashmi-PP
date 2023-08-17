@@ -33,9 +33,11 @@ Please find my project [here](https://github.com/Rashmi-PP/MachineLearning_Class
 
   :checkered_flag: The goal of this project is to find out a good ML classification model to classify whether a person would subscribe to a term deposit based on various input features like personal demographics, loan amount, to name a few. The models implemented include logistic regression, support vector machine and neural network. These models were evaluated using metrics like recall, F1 score and accuracy. 
 
-  :mag: The skill I acquired doing this project includes the following:
-  1. Mitigate class imbalance 
-  
+  :mag: The skills I acquired doing this project includes the following:
+  1. Mitigation of class imbalance using synthetic minority oversampling technique (SMOTE)
+  2. Application of L1/L2/ElasticNet regularization, cross validation method to mitigate overfitting
+  3. Model validation using metrics like recall, F1 score
+  4. Overcoming underfitting by not eliminating too many features that originally caused overfitting.
   
   
 
