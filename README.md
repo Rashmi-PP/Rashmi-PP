@@ -15,19 +15,11 @@ Analyzing US Sustainable Development Goals(SDG) from 2011-2017. Please find my p
 
 :mag: The skill I acquired doing the project was to use Tableau to make simple, yet meaningful dashboard to analyze a few important aspects of the US economy. :chart_with_upwards_trend:
 
-:radio_button: **ETL using Python, Docker, SQL**
+- **ETL using Python, Docker, SQL**
 Please find my project [here](https://github.com/Rashmi-PP/Data-ETL-pipeline-Python-AWS)
 
 :checkered_flag: The goal of 
 
- 
-:radio_button:
-
-
-:radio_button:
-
-
-:radio_button:
 
 
 
