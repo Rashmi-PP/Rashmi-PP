@@ -16,6 +16,8 @@ Analyzing US Sustainable Development Goals(SDG) from 2011-2017. Please find my p
 
   :mag: The skill I acquired doing the project is to use Tableau to make simple, yet meaningful dashboard to analyze a few important aspects of the US economy. :chart_with_upwards_trend:
 
+____________________________________________________________________________________________________
+
 - **ETL using Python, Docker, SQL**
 Please find my project [here](https://github.com/Rashmi-PP/Data-ETL-pipeline-Python-AWS)
 
@@ -28,6 +30,8 @@ Please find my project [here](https://github.com/Rashmi-PP/Data-ETL-pipeline-Pyt
     6. Run a cron job to get updated data to S3 repeatedly
 
   :mag: The skill I acquired doing this project is to learn the implementation of an end-to-end ETL pipeline. This is a skillset needed in every business.
+
+____________________________________________________________________________________________________
   
 - **Classification using Machine Learning in Python**
 Please find my project [here](https://github.com/Rashmi-PP/MachineLearning_Classification)
@@ -40,6 +44,8 @@ Please find my project [here](https://github.com/Rashmi-PP/MachineLearning_Class
   3. Model validation using metrics like recall, F1 score
   4. Overcoming underfitting by not eliminating too many features that originally caused overfitting.
   
+____________________________________________________________________________________________________
+
 - **Web development using Flask framework**
 Please find my project [here](https://github.com/Rashmi-PP/Web-development-using-Flask)
 You can see the website [here]( https://exam-results.onrender.com/)
@@ -48,6 +54,6 @@ You can see the website [here]( https://exam-results.onrender.com/)
 
 :mag: The skill I acquired implementing this project is to use Flask framework to build a web application that renders results dynamically.
 
-
+____________________________________________________________________________________________________
 
 
