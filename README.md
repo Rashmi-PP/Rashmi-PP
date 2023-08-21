@@ -22,6 +22,7 @@ ________________________________________________________________________________
 Please find my project [here](https://github.com/Rashmi-PP/Data-ETL-pipeline-Python-AWS)
 
 :checkered_flag: The goal of this project is to do the following:
+    
     1. Build an ETL pipeline where data is ingested to AWS S3
     2. Pre-process the data using Python
     3. Feed the resulting data to Amazon Relational Database Service(RDS)
